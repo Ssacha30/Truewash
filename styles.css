@@ -1,4 +1,4 @@
-body {
+body{
     background-color: seashell rgb(255, 236, 222);
 }
 
@@ -7,23 +7,23 @@ header{
 }
 
 h1{
-    color: rgb(115, 146, 255); font-family: "Bebas Neue", sans-serif;
+    color: rgb(115, 146, 255); font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
 }
 
 h2{
-    color: rgb(115, 146, 255); font-family: "Bebas Neue", sans-serif;
+    color: rgb(115, 146, 255); font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
 
-    background-color: dimgray
+    background-color: dimgray;
    
     font-size: xx-large;
 }
 p{
-    font-family: "Bebas Neue", sans-serif; Fjalla One, Archivo 
+    font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
 
     font-size: xx-large;
 }
 li{
-   font-family: "Bebas Neue", sans-serif;
+   font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
 
    background-color:rgb(178, 192, 242) ;
 
