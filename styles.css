@@ -1,0 +1,31 @@
+body {
+    background-color: seashell rgb(255, 236, 222);
+}
+
+header{
+    background-color: rgb(45, 45, 45);
+}
+
+h1{
+    color: rgb(115, 146, 255); font-family: "Bebas Neue", sans-serif;
+}
+
+h2{
+    color: rgb(115, 146, 255); font-family: "Bebas Neue", sans-serif;
+
+    background-color: dimgray
+   
+    font-size: xx-large;
+}
+p{
+    font-family: "Bebas Neue", sans-serif; Fjalla One, Archivo 
+
+    font-size: xx-large;
+}
+li{
+   font-family: "Bebas Neue", sans-serif;
+
+   background-color:rgb(178, 192, 242) ;
+
+   font-size: x-large;
+}
