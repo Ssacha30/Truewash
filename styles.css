@@ -8,24 +8,48 @@ header{
 
 h1{
     color: rgb(115, 146, 255); font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
+    font-weight: lighter;
+    text-align: center;
+    font-size: 150px;
 }
 
 h2{
     color: rgb(115, 146, 255); font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
-
     background-color: dimgray;
-   
-    font-size: xx-large;
+    font-size: 75px;
 }
+
 p{
     font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
-
     font-size: xx-large;
+    line-height: 2;
 }
+
 li{
-   font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
-
-   background-color:rgb(178, 192, 242) ;
-
-   font-size: x-large;
+    font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
+    background-color:rgb(178, 192, 242) ;
+    font-size: x-large;
+    font-style: italic;
 }
+
+ul{
+    text-align: center;
+}
+
+.page-one{
+    text-decoration: underline;
+}
+
+.page-two{
+    text-align: center;
+}
+
+.page-two h2{
+    text-align: center;
+}
+
+a{
+    font-size: 35px;
+}
+
+
