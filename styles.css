@@ -17,8 +17,8 @@ header{
 h1{
     color: rgb(115, 146, 255); font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
     font-weight: lighter;
-    text-align: center;
     font-size: 150px;
+    text-align: center;
 }
 
 h2{
@@ -38,7 +38,7 @@ li{
     font-family: "Bebas Neue", sans-serif, Verdana, Georgia; 
     background-color:rgb(178, 192, 242) ;
     font-size: x-large;
-    font-style: italic;
+    font-style: italic;    
 }
 
 ul{
@@ -78,17 +78,28 @@ a{
 }
 
 #PWD{
-    margin: 50px;
+    margin: auto;
 }
 
 .text{
     font-size: 30px;
     text-align: center;
-    width: 60%;
+    max-width: fit-content;
     height: 40%;
+    background-image: url(./assets/whiteblue.jpg);
+}
+
+.container{
+    background-image:url(./assets/blue.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.info{
+    max-width: max-content;
 }
     
-    
+
 
 
 
