@@ -11,7 +11,6 @@ header{
     border: 3px solid grey;
     height: 350px;
     box-sizing: border-box;
-
 }
 
 h1{
@@ -99,6 +98,11 @@ a{
     max-width: max-content;
 }
     
+.banner{
+    height: 350px ;
+    background-image:url(./assets/greybanner.webp) ;
+    
+}
 
 
 
